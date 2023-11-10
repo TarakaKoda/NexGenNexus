@@ -1,14 +1,14 @@
 import { HStack, Image, Text, Show } from "@chakra-ui/react";
-import logo from "../assets/logo.webp";
+import logo from "../assets/logo3.webp";
 import ColorModeSwitch from "./ColorModeSwitch";
 const NavBar = () => {
   return (
     <HStack justifyContent="space-between" padding="10px">
-      <HStack marginLeft="-12px">
+      <HStack>
         <Show above="lg">
-          <Image boxSize="60px" src={logo} />
+          <Image mixBlendMode='difference' boxSize="40px" src={logo} />
         </Show>
-        <Text fontFamily="futurama" marginLeft="-12px">
+        <Text fontFamily="futurama">
           NexGen Nexus
         </Text>
       </HStack>
