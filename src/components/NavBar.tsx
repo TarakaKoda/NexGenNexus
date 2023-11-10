@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <HStack>
         <Image boxSize="60px" src={logo}/>
-        <Text marginLeft='-12px' color="#FFF" className="logo-text">NexGen Nexus</Text>
+        <Text fontFamily='futurama' mixBlendMode='difference' marginLeft='-12px'>NexGen Nexus</Text>
     </HStack>
   )
 }
