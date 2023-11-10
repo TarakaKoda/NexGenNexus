@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'futurama';
+    src: url('assets/fonts/fr-bold.ttf');
+}
+
+.logo-text {
+    font-family: futurama;
+    mix-blend-mode: difference;
+}
