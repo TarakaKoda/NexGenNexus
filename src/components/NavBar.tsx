@@ -2,7 +2,7 @@ import { HStack, Text, Show } from "@chakra-ui/react";
 import ColorModeSwitch from "./ColorModeSwitch";
 const NavBar = () => {
   return (
-    <HStack justifyContent="space-between" padding="10px">
+    <HStack justifyContent="space-between" padding={4}>
       <HStack>
         <Show above="lg">
           <Text
