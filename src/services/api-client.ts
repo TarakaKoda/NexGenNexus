@@ -8,7 +8,9 @@ const axiosInstance = axios.create({
 });
 
 export interface FetchResponse<T> {
+  length: number;
   count: number;
+  next: string | null;
   results: T[];
 }
 
