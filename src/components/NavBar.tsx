@@ -26,7 +26,7 @@ const NavBar = () => {
           </Text>
         </Show>
       </HStack>
-      <SearchInput></SearchInput>
+      <SearchInput/>
       <ColorModeSwitch />
     </HStack>
   );
