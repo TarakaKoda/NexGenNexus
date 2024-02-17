@@ -1,7 +1,7 @@
   <div align="center">
   <br />
     <a href="https://nexgen-nexus.vercel.app" target="_blank">
-            <img src="https://github.com/TarakaKoda/Game-tracker-app/assets/122253973/afd02158-8af8-4f35-90c7-cbffb38a6445" alt="Project Banner">
+            <img src="https://github.com/TarakaKoda/NexGenNexus/assets/122253973/666a0d46-c9bf-4fe8-90db-b970c4098451" alt="Project Banner">
     </a>
   <br />
 
